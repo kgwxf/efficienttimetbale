@@ -1,0 +1,40 @@
+Monday;0820;CP/CHEM(L)
+Monday;0920;PHY(L)
+Monday;1020;PW(T)
+Monday;1120;BREAK
+Monday;1200;CHEM(T)
+Monday;1300;ASEEMBLY/CCE OR GP(L)
+Monday;1400;H1
+Monday;1500;PHY(T)
+Monday;1620;EC(T)/LIT(T)/ELL(T)
+Monday;2400;HOME
+Tuesday;0820;PE
+Tuesday;0920;BREAK
+Tuesday;1000;M(T)
+Tuesday;1100;M(L)
+Tuesday;1200;PW(L)
+Tuesday;1300;BREAK
+Tuesday;1340;EC(L)/CLL(L)
+Tuesday;1440;EC(T)
+Tuesday;2400;HOME
+Wednesday;0820;GP(T)
+Wednesday;1020;BREAK
+Wednesday;1100;CP
+Wednesday;1300;ASSEMBLY/CCE
+Wednesday;2400;HOME
+Thursday;0820;PHY(L)
+Thursday;0920;GP(T)
+Thursday;1020;BREAK
+Thursday;1100;CP/CHEM(L)
+Thursday;1200;PHY LAB
+Thursday;1440;LIT
+Thursday;1540;H1
+Thursday;2400;HOME
+Friday;0920;M(T)
+Friday;1020;BREAK
+Friday;1100;M(L)
+Friday;1200;EC(L)/CLL(L)
+Friday;1300;MOD PE
+Friday;1400;BREAK
+Friday;1440;CLL(L)/LIT(T)/ELL(T)
+Friday;2400;HOME

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+<center>
+<h1>Check your next lesson &#129488</h1>
+
+ <div class = "container">
+    <form name="inquiry" action="{{ url_for('index')}}" method="POST">
+      <label for="cls">Class:</label><br>
+      <input type="text" id="cls" name="cls" required placeholder="e.g. 5C35"><br><br>
+      <label for="sbjc">Day:</label><br>
+      <input type="text" id="dy" name="dy"style="text-transform: capitalize;"><br><br>
+      <label for ="tme">Time now(24h):</label><br>
+      <input type="text" id="tme" name="tme" ><br><br>
+  </div>
+  <div class="loginbox">
+      <input type="submit" name="" value="Submit" onclick="templates/page1.html">  
+  </div> 
+
+  </form>
+</center>
+{% endblock %}
